@@ -1,0 +1,8 @@
+streamlit
+groq
+duckduckgo-search
+pypdf
+python-docx
+gtts
+SpeechRecognition
+python-dotenv
