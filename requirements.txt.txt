@@ -1,0 +1,8 @@
+streamlit
+groq
+sqlite3
+SpeechRecognition
+duckduckgo-search
+pypdf
+python-docx
+gtts
